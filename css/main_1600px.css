@@ -1,0 +1,82 @@
+@font-face {
+    
+    font-family: "Monument Extended"; 
+    
+    src: url("/fonts/MonumentExtended-Regular.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 400; 
+    } 
+body {
+    background: #181818;
+    color: white;
+    margin: 0;
+}
+p{
+    font-family: "Monument Extended";
+
+    /* identical to box height */
+
+    
+    text-transform: uppercase;
+}
+header {
+    width: 1500px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 65px;
+    margin-bottom: 59px;
+}
+main {
+    width: 1500px;
+    margin: auto; 
+}
+.header_title {
+    margin: 0;
+    letter-spacing: -0.03em;
+    font-size: 20px;
+    line-height: 24px;
+}
+.header_icons {
+    width: 132px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+}
+.social{
+    margin-top: 0;
+    width: 24px;
+    height: 24px;
+}
+.social_down{
+    margin-top: 2px;
+    width: 24px;
+    height: 24px;
+}
+.cover {
+    width: 1500px;
+    height: 770px;
+    position: relative;
+}
+.cover_img {
+    width: 710px;
+    height: 770px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+.cover_title{
+    position: absolute;
+    top: 197px;
+    width: 1046px;
+    height: 352px;
+    font-size: 160px;
+line-height: 110%;
+/* or 176px */
+margin: 0;
+
+text-transform: uppercase;
+
+}
