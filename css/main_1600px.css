@@ -59,13 +59,33 @@ main {
     height: 770px;
     position: relative;
 }
-.cover_img {
+.cover_photo{
     width: 710px;
     height: 770px;
+    
     position: absolute;
     right: 0;
     top: 0;
     z-index: -1;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    opacity: 0.9;
+}
+.cover_img {
+    width: 619px;
+    height: 690px;
+    transform: matrix(0.99, 0.14, -0.14, 0.99, 0, 0);
+    margin: 0 auto;
+    
+
+
+}
+.afa{
+    width: 619px;
+    height: 690px;
+    transform: rotate(8.01deg)
 }
 .cover_title{
     position: absolute;
@@ -73,10 +93,10 @@ main {
     width: 1046px;
     height: 352px;
     font-size: 160px;
-line-height: 110%;
-/* or 176px */
-margin: 0;
+    line-height: 110%;
+    /* or 176px */
+    margin: 0;
 
-text-transform: uppercase;
+    text-transform: uppercase;
 
 }
