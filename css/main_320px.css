@@ -1,0 +1,307 @@
+header {
+    width: 280px;
+    height: 24px;
+    margin-top: 27px;
+    margin-bottom: 74px;
+}
+main {
+    width: 280px; 
+    height: 6423px;
+}
+.header_title {
+    letter-spacing: -0.03em;
+    font-size: 12px;
+    line-height: 14px;
+    height: 14px;
+    margin: auto 0;
+}
+.header_icons {
+    width: 24px;
+    height: 24px;
+}
+.social{
+    width: 24px;
+    height: 24px;
+}
+.social_down{
+    
+    width: 24px;
+    height: 24px;
+}
+.cover {
+    width: 280px;
+    height: 433px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.cover_photo{
+    width: 300px;
+    height: 324px;
+    position: static;
+}
+.cover_img {
+    width: 267px;
+    height: 297px;
+    margin: 0;
+}
+.about{
+    width: 280px;
+    height: 841px;
+    margin: 130px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.about_col{
+    width: 280px;
+    height: 773px;
+}
+.cover_title{
+    position: static;
+    width: 280px;
+    height: 92px;
+    font-size: 42px;
+    line-height: 110%;
+    /* or 176px 598*/
+
+}
+.first_text {
+    width: 280px;
+    height: 306px;
+    font-size: 30px;
+    line-height: 115%;
+}
+.about p {
+    width: 108px;
+    height: 18px;
+    font-size: 15px;
+    line-height: 18px;
+}
+.second_text{
+    margin-left: 0;
+    font-size: 15px;
+    line-height: 140%;
+    width: 280px;
+    height: 84px;
+}
+
+.about_img{
+    position: static;
+    width: 280px;
+    height: 323px;
+    
+}
+.process{
+    flex-direction: column;
+    height: 421px;
+}
+.process_title {
+    font-size: 15px;
+    line-height: 18px;
+}
+.process_steps {
+    width: 280px;
+}
+.step{
+    width: 280px;
+    height: 60px;
+}
+.step img{
+    width: 24px;
+    height: 24px;
+    margin: 18px 0;
+    
+}
+
+.step_title p{
+    font-size: 20px;
+    line-height: 140%;
+}
+.step_number {
+    margin-right: 15px;
+}
+.projects{
+    margin: 130px 0;
+    flex-direction: column;
+}
+.projects_title{
+    width: 280px;
+    height: 84px;
+    font-size: 35px;
+    line-height: 42px;
+}
+.project {
+    width: 280px;
+}
+.project_buttons{
+    width: 244px;
+}
+.project_button{
+    width: 110px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 140%;
+}
+.project_title{
+    width: 244px;
+    margin-bottom: 15px;
+}
+.project_title p{
+    font-size: 20px;
+    line-height: 140%;
+}
+.project_info span{
+    font-size: 12px;
+    line-height: 140%;
+}
+.project_info{
+    width: 244px;
+}
+.project_content{
+    margin: 20px;
+}
+.project_image{
+    margin: 18px 0;
+}
+.projects_cols{
+    width: 280px;
+}
+.projects_col{
+    height: 3390px;
+}
+.projects_column{
+    height: 3255px;
+}
+.projects_behance{
+    width: 158px;
+    height: 23px;
+    margin-top: 60px;
+}
+.projects_behance span{
+    font-size: 16px;
+    line-height: 140%;
+    width: 130px;
+    height: 22px;
+}
+.behance_arrow{
+    margin: 7px 0;
+    width: 18px;
+    height: 12px;
+}
+.about_service_button{
+    width: 243px;
+    height: 20px;
+}
+.about_service_link{
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+}
+.about_service_button img{
+    margin-top:5px;
+}
+.service_description{
+    margin: 40px 0;
+    width: 280px;
+}
+.service_title{
+    width: 170px;
+    font-size: 20px;
+    line-height: 140%;
+}
+.service{
+    height: 120px;
+    width: 280px;
+
+}
+.service_price{
+    font-size: 12px;
+    line-height: 140%;
+}
+.services{
+    width: 280px;
+}
+.services_title{
+    font-size: 15px;
+    line-height: 18px;
+    width: 280px;
+}
+.service_list{
+    margin-top: 85px;
+    margin-bottom: 20px;
+    position: relative;
+    width: 280px;
+}
+.hourly_payment{
+    font-size: 12px;
+    line-height: 140%;
+    position: relative;
+    
+}
+footer{
+    margin-top: 100px;
+    height: 640px;
+}
+.footer {
+    width: 280px;
+    padding-top: 70px;
+    padding-bottom: 23px;
+}
+.footer_title {
+    font-size: 35px;
+    line-height: 42px;
+    width: 278px;
+    height: 126px;
+}
+.footer_cols{
+    width: 280px;
+    height: 258px;
+    flex-direction: column;
+}
+.footer_col{
+    width: 232px;
+    
+    height: 82px;
+
+}
+.happy{
+    font-size: 15px;
+    line-height: 140%;
+}
+.mail{
+    font-size: 15px;
+    line-height: 20px;
+}
+.email_me{
+    width: 120px;
+    height: 120px;
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 50px;
+}
+.footer_links{
+    margin-top: 70px;
+    flex-direction: column;
+    height: 50px;
+}
+.footer_social{
+    width: 280px;
+}
+.footer_copyright{
+    width: 280px;
+}
+.footer_social span{
+    font-size: 12px;
+    line-height: 16px;
+}
+.footer_copyright span{
+    font-size: 10px;
+    line-height: 13px;
+}
+.burger_menu{
+    width: 24px;
+    height: 24px;
+    
+}

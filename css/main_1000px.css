@@ -1,0 +1,273 @@
+header {
+    width: 960px;
+    height: 24px;
+    margin-top: 30px;
+    margin-bottom: 41px;
+}
+main {
+    width: 960px; 
+}
+.header_title {
+    letter-spacing: -0.03em;
+    font-size: 20px;
+    line-height: 24px;
+}
+.header_icons {
+    width: 132px;
+    height: 24px;
+}
+.social{
+    width: 24px;
+    height: 24px;
+}
+.social_down{
+    
+    width: 24px;
+    height: 24px;
+}
+.cover {
+    width: 960px;
+    height: 484px;
+}
+.cover_photo{
+    width: 445px;
+    height: 484px;
+}
+.cover_img {
+    width: 399px;
+    height: 443px;
+}
+.about{
+    width: 960px;
+    height: 732px;
+    margin: 200px 0;
+}
+
+.about_col{
+    width: 960px;
+    height: 732px;
+}
+.cover_title{
+    top: 132px;
+    width: 654px;
+    height: 220px;
+    font-size: 100px;
+    line-height: 110%;
+    /* or 176px 598*/
+
+}
+.first_text {
+    width: 679px;
+    height: 400px;
+    font-size: 50px;
+    line-height: 115%;
+}
+.about_row p {
+    width: 144px;
+    height: 24px;
+    font-size: 20px;
+    line-height: 24px;
+}
+.second_text{
+    font-size: 25px;
+    line-height: 140%;
+    width: 480px;
+    height: 140px;
+    margin-left: 480px;
+}
+
+.about_img{
+    width: 375px;
+    height: 432px;
+    left: -20px;
+}
+
+.process_title {
+    font-size: 20px;
+    line-height: 24px;
+}
+.process_steps {
+    width: 480px;
+}
+.step{
+    width: 480px;
+    height: 104px;
+}
+.step img{
+    width: 35px;
+    height: 35px;
+    margin: 34.5px 0;
+    
+}
+
+.step_title p{
+    font-size: 30px;
+    line-height: 140%;
+}
+.step_number {
+    margin-right: 40px;
+}
+.projects{
+    margin: 200px 0;
+}
+.projects_title{
+    width: 440px;
+    height: 144px;
+    font-size: 60px;
+    line-height: 72px;
+}
+.project {
+    width: 440px;
+}
+.project_buttons{
+    width: 380px;
+}
+.project_button{
+    width: 180px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 140%;
+}
+.project_title{
+    width: 380px;
+    margin-bottom: 15px;
+}
+.project_title p{
+    font-size: 25px;
+    line-height: 140%;
+}
+.project_info span{
+    font-size: 16px;
+    line-height: 140%;
+}
+.project_info{
+    width: 380px;
+}
+.project_content{
+    margin: 30px;
+}
+.project_image{
+    margin: 30px 0;
+}
+.projects_cols{
+    width: 920px;
+}
+.projects_col{
+    height: 2250px;
+}
+.projects_column{
+    height: 2092px;
+}
+.projects_behance{
+    width: 199px;
+    height: 28px;
+    margin-top: 100px;
+}
+.projects_behance span{
+    font-size: 20px;
+    line-height: 140%;
+    width: 170px;
+    height: 28px;
+}
+.behance_arrow{
+    margin: 5px 0;
+    width: 27px;
+    height: 18px;
+}
+.about_service_button{
+    width: 267px;
+    height: 21px;
+}
+.about_service_link{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+}
+.about_service_button img{
+    margin-top:5px;
+}
+.service_description{
+    margin: 40px 0;
+    width: 480px;
+}
+.service_title{
+    width: 480px;
+    font-size: 30px;
+    line-height: 140%;
+}
+.service{
+    height: 104px;
+
+}
+.service_price{
+    font-size: 16px;
+    line-height: 140%;
+}
+.services_title{
+    font-size: 20px;
+    line-height: 24px;
+}
+.service_list{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.hourly_payment{
+    font-size: 16px;
+    line-height: 140%;
+}
+footer{
+    margin-top: 200px;
+    height: 570px;
+}
+.footer {
+    width: 960px;
+    padding-top: 57px;
+    padding-bottom: 48px;
+}
+.footer_title {
+    font-size: 60px;
+    line-height: 72px;
+    width: 532px;
+    height: 144px;
+}
+.footer_cols{
+    width: 923px;
+}
+.footer_col{
+    width: 232px;
+    margin-top: 10px;
+    height: 95px;
+
+}
+.happy{
+    font-size: 16px;
+    line-height: 140%;
+}
+.mail{
+    font-size: 16px;
+    line-height: 21px;
+}
+.email_me{
+    width: 170px;
+    height: 170px;
+    font-size: 16px;
+    line-height: 21px;
+    margin-top: 66px;
+}
+.footer_links{
+    margin-top: 66px;
+}
+.footer_social{
+    width: 311px;
+}
+.footer_copyright{
+    width: 275px;
+}
+.footer_social span{
+    font-size: 14px;
+    line-height: 19px;
+}
+.footer_copyright span{
+    font-size: 14px;
+    line-height: 19px;
+}
