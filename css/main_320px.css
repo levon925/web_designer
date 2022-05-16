@@ -191,7 +191,7 @@ main {
     height: 12px;
 }
 .about_service_button{
-    width: 243px;
+    width: 280px;
     height: 20px;
 }
 .about_service_link{
@@ -201,9 +201,10 @@ main {
 }
 .about_service_button img{
     margin-top:5px;
+    margin-left: 10px;
 }
 .service_description{
-    margin: 40px 0;
+    margin: 47px 0;
     width: 280px;
 }
 .service_title{
