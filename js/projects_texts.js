@@ -31,7 +31,7 @@ function changeText() {
     skyNews.setAttribute('style', 'white-space: pre;');
     goldory.setAttribute('style', 'white-space: pre;');
     headerIcons.innerHTML= "<img class='social' src='img/header/behance.svg' alt='behance'><img class='social_down' src='img/header/instagram.svg' alt='instagram'><img class='social' src='/img/header/facebook.svg' alt='facebook'>";
-        concept.textContent = "first concept ";
+      //  concept.textContent = "first concept ";
     if(width < 1583 && width >= 983){
         resetProjectList();
         removeProjectButtons();
